@@ -5,7 +5,7 @@
 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹
 
 ## Languages, frameworks and tools I use:
-
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
 
 <!--
 **Sander-TB/Sander-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

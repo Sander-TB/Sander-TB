@@ -5,8 +5,18 @@
 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹
 
 ## Languages, frameworks and tools I use:
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>]
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>]
+
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
+[<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
 [<img align="left" alt="sandertrolleboe.com" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>][website]
 
+
+<br>
 <!--
 **Sander-TB/Sander-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

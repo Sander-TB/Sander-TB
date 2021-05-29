@@ -36,9 +36,7 @@ https://github-readme-stats.vercel.app/api/wakatime?username=sandertb
 
 <br>
 
-![Github Stats(https://github-readme-stats.vercel.app/api?username=sander-tb&&show_icons=true&include_all_commits=true&theme=dracula)]
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sander-tb&&show_icons=true&include_all_commits=true&theme=dracula)
 
 
 

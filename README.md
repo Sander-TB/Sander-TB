@@ -1,5 +1,10 @@
 ## Hi! Im Sander 👋🏻
 
+[![Website](https://img.shields.io/badge/Portfolio-00BDAA?style=flat&logo=google-chrome&logoColor=white)][website]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)][gmail]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
+
 #### I'm a 23 year old web developer living in Oslo, Norway.
 
 -  🤩 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹

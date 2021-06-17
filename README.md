@@ -45,7 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 June, 2021 - 15 June, 2021
+Week: 09 June, 2021 - 16 June, 2021
 
 Other        1 hr 8 mins     ███████████████████████▓░   94.96 % 
 JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 

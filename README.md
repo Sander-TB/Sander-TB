@@ -9,7 +9,7 @@
 
 -  🤩 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹
 - 👾 I’m currently learning cyber security and ethical hacking on my free time
-- 💻 I'm currently working on a personal pocket-assistant app
+- 💻 I'm currently working on an Instagram Clone
 - 🗣 I speak English & Norwegian
 - ✓ Pronouns: He/Him
 

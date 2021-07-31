@@ -45,11 +45,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
-
-JavaScript   3 hrs 23 mins   ████████████████████████▒   97.87 % 
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

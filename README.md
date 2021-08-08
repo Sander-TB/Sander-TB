@@ -45,7 +45,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 August, 2021 - 07 August, 2021
+
+JavaScript   3 hrs 6 mins    ██████████████████████░░░   88.09 % 
+CSS          21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 

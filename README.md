@@ -43,14 +43,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sander-tb&&show_icons=true&include_all_commits=true&theme=dracula)
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-
 [website]: https://sandertrolleboe.com
 [twitter]: https://twitter.com/STrolleb
 [instagram]: https://www.instagram.com/sandertrolleboe/

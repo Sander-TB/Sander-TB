@@ -48,3 +48,10 @@
 [instagram]: https://www.instagram.com/sandertrolleboe/
 [linkedin]: https://www.linkedin.com/in/sander-trolleboe-byrkjeland/
 [gmail]: mailto:sander.trolleboe@gmail.com
+
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->

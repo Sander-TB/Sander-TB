@@ -52,6 +52,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 October, 2021 - 21 October, 2021
+
+JavaScript   3 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.73 % 
+CSS          2 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   35.64 % 
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->

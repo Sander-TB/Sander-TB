@@ -52,7 +52,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
 Bash         1 min           ████████░░░░░░░░░░░░░░░░░   31.95 % 
 Other        1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 

@@ -52,9 +52,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
-
-Bash         1 min           ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Other        1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.09 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->

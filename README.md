@@ -52,7 +52,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
 JavaScript   3 hrs 44 mins   ██████████████████▒░░░░░░   73.61 % 
 JSON         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 

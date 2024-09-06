@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
-#### I'm a 25 year old web developer living in Holmestrand, Norway.
+#### I'm a 26 year old web developer living in Holmestrand, Norway.
 
 -  🤩 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹
 - 👾 I’m currently learning cyber security and ethical hacking on my free time

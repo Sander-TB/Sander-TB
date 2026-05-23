@@ -38,6 +38,9 @@ Chill on the outside. Quite a lot going on inside.
 <!-- GITHUB STATS
 ![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander-TB&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-TB&layout=compact&theme=dark&hide_border=true)
+
+![snake](https://raw.githubusercontent.com/Sander-TB/Sander-TB/output/github-contribution-grid-snake-dark.svg)
+
 -->
 
 <!--START_SECTION:waka-->
@@ -49,7 +52,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 [website]: https://sandertrolleboe.com
-[twitter]: https://twitter.com/STrolleb
 [instagram]: https://www.instagram.com/sandertrolleboe/
 [linkedin]: https://www.linkedin.com/in/sander-trolleboe-byrkjeland/
 [gmail]: mailto:sander.trolleboe@gmail.com
+

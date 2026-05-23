@@ -1,59 +1,55 @@
-## Hi! Im Sander 👋🏻
+## Hi, I'm Sander 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-00BDAA?style=flat&logo=google-chrome&logoColor=white)][website]
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)][gmail]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
+Front-end developer by training. Demand planner by day. Curious mind by default.
 
-#### I'm a 26 year old web developer living in Holmestrand, Norway.
+I like understanding how things actually work — whether that's code, circuits, or why my old Game Boy stopped working in 2003. Currently finding my way back to building things after a detour through spreadsheets and supply chains.
 
--  🤩 I love coding and programming 💻, tinkering around on Linux distros 🛠 as well as the occasional gaming session 🕹
-- 👾 I’m currently learning cyber security and ethical hacking on my free time
-- 💻 I'm currently working on an Instagram Clone
-- 🗣 I speak English & Norwegian
-- ✓ Pronouns: He/Him
+Chill on the outside. Quite a lot going on inside.
 
-<br>
+---
 
+### Stack
 
-### Languages, frameworks and tools I most frequently use:
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/next.js-000000?style=flat&logo=next-dot-js&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-
-<br>
-
-### Stuff I'm learning
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<br>
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sander-tb&&show_icons=true&include_all_commits=true&theme=dracula)
+### Also into
 
+- 🎮 Gaming — from modern releases to digging out cartridges that haven't seen daylight since 2004
+- 🔧 Electronics tinkering & refurbishing — soldering iron, a pile of broken hardware, and the occasional successful mod
+- 🎸 Bass guitar — slowly, but getting there
+- 🐧 Linux distros, because apparently that's a hobby now
+
+---
+
+*Currently building in public after a long pause. PRs welcome. Judgment not so much.*
+
+<!-- GITHUB STATS
+![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sander-TB&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-TB&layout=compact&theme=dark&hide_border=true)
+-->
+
+<!--START_SECTION:waka-->
+<!--
+```text
+No activity tracked
+```
+-->
+<!--END_SECTION:waka-->
 
 [website]: https://sandertrolleboe.com
 [twitter]: https://twitter.com/STrolleb
 [instagram]: https://www.instagram.com/sandertrolleboe/
 [linkedin]: https://www.linkedin.com/in/sander-trolleboe-byrkjeland/
 [gmail]: mailto:sander.trolleboe@gmail.com
-
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
